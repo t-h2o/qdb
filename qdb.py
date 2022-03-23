@@ -21,6 +21,6 @@ def __lldb_init_module(debugger, internal_dict):
 #-----------------------------------
     
 
-print("===============")
-print("QDB vesrion", VERSION)
-print("===============")
+print("\n ===============")
+print(" QDB vesrion", VERSION)
+print(" ===============\n")
